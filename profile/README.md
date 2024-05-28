@@ -1,5 +1,5 @@
 # :wave:  ViolaFlower
-Violaflower is an organization of developers seeking to enhance the Minecraft Modding scene with reliable, high quality
+Violaflower is an organization of developers seeking to enhance the Minecraft Modding scene with reliable, high quality mods and modpacks.
 
 ## :rocket:  Our Ideals
 Our ideals consists of preferring Quality over Quantity in terms of our projects. Our most notable projects consist of Re-Console, Deck-Ify and Nitrogen.
