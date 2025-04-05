@@ -24,14 +24,8 @@ We most notably manage Re-Console and Legacy Tweaks. For a full list, click belo
 <details>
 <summary>ViolaFlower Projects</summary>
 
-- Aetherial (unreleased)
-- Better than Trails (unreleased)
 - LCE Panorama Collection
-- Legacy Edition Visual Tweaks (unreleased)
-- Legacy Tweaks (unreleased)
-- Mice on Venus (unreleased)
 - Mash-up Addon
-- Nitrogen (unreleased)
 - Nitroserver
 - Re-Console
 - Re-Console Server Software
